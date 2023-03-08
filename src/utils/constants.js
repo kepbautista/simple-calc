@@ -1,0 +1,9 @@
+export const CLEAR = 'AC';
+export const NEGATE = '+-';
+export const PERCENT_SIGN = '%';
+export const ADD = '+';
+export const SUBTRACT = '-';
+export const DIVIDE = '/';
+export const MULTIPLY = 'X'; 
+export const EQUAL_SIGN = '=';
+export const DECIMAL_SEPARATOR = '.';
